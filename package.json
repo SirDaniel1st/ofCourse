@@ -1,0 +1,29 @@
+{
+  "name": "ofcourse",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.6.5",
+    "moment": "^2.29.1",
+    "vue": "^2.6.12",
+    "vue-hooks-form": "0.2.2",
+    "vue-router": "3.5.1",
+    "vue2-filters": "^0.11.1",
+    "vuetify": "2.4.11"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "keywords": [],
+  "description": ""
+}
